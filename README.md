@@ -14,5 +14,5 @@ This is a basic alarm application built using .NET WinForms and C#. The applicat
 
 The app is implemented in C# using .NET WinForms for the graphical user interface.
 
-![image](https://raw.githubusercontent.com/VigneshDev1309/Alarm-App/main/Alarm_KNeken8Ig6.png)
-![image](https://raw.githubusercontent.com/VigneshDev1309/Alarm-App/main/Alarm_avdQ2DlLcA.png)
+**![image](https://raw.githubusercontent.com/VigneshDev1309/Alarm-App/main/Alarm_KNeken8Ig6.png)
+![image](https://raw.githubusercontent.com/VigneshDev1309/Alarm-App/main/Alarm_avdQ2DlLcA.png)**
