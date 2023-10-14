@@ -1,0 +1,17 @@
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\bin\Debug\Guna.UI2.dll
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.csproj.AssemblyReference.cache
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.csproj.CopyComplete
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.exe
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.pdb
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.ListItem.resources
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.AlarmDataView.resources
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\obj\Debug\Alarm.AlarmPopUp.resources
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vigne\OneDrive\Desktop\Alarm\Alarm\bin\Debug\Newtonsoft.Json.xml
